@@ -99,3 +99,5 @@
         </plugins>
     </build>
 </project>
+<artifactId>team_task_manager</artifactId>
+
